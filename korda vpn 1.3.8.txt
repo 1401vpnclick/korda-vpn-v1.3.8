@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"اپدیت جدید این برنامه هم اکنون در دسترس میباشد لطفا ان را بروز کنید","dismissable":false,"dismissTxt":"رد","okTxt":"بروزرسانی","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
